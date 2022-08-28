@@ -1,6 +1,6 @@
 {
   "name": "@garster/cert-check",
-  "version": "1.0",
+  "version": "1.0.0",
   "type": "module",
   "description": "Check TLS/SSL certificate expiration",
   "main": "index.js",
