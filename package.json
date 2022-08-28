@@ -1,0 +1,19 @@
+{
+  "name": "@garster/cert-check",
+  "version": "1.0",
+  "type": "module",
+  "description": "Check TLS/SSL certificate expiration",
+  "main": "index.js",
+  "keywords": [
+    "cert",
+    "tls",
+    "ssl",
+    "https",
+    "expiration"
+  ],
+  "author": "Gary Scott",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
