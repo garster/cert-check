@@ -11,9 +11,13 @@
     "https",
     "expiration"
   ],
-  "author": "Gary Scott",
+  "author": "Gary Scott <gary@garyscott.net> (https://garyscott.net)",
   "license": "MIT",
   "scripts": {
     "test": "node test.js"
+  }, 
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/garster/cert-check.git"
   }
 }
