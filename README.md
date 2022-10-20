@@ -37,7 +37,7 @@ Returned object:
 {
   site: "string", // the same domain/domain:port you passed in
   validTo: "iso-8601 date string", // when the cert expires, probally in UTC
-  daysTillExp: number // days to expiration, ignoring timezone
+  daysTillExp: number, // days to expiration, ignoring timezone
   cn: "string", // the CN of the subject, the main domain in the cert, useful for SAN certs
   fingerprint: "string" // hash of the cert, again useful for grouping domains in SAN certs
 }
